@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Top Navbar  */
+
+.top_navbar{
+    height: 100px;
+}
+.navbar-brand h4{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.navbar-brand span{
+    color: gray;
+    font-size: 11px;
+}
+#navbar1 ul > li > a{
+    font-weight: 600;
+}
+
+/* Header section */
+.header-left h2{
+    font-weight: 300;
+    color: gray;
+}
+.header-left h1{
+    font-weight: 700;
+}
+.header-left h5{
+    font-weight: 500;
+    color: gray;
+}
+hr{
+    margin-top: -1px;
+}
+.bi{
+    font-size: 30px;
+    margin-right: 6px;
+}
+/* .bi-youtube, .bi-facebook{
+    width: 50px;
+} */
